@@ -1,0 +1,37 @@
+btguru scraper - Easily watch for new releases from your favorite groups.
+Copyright (C) 2012 Brian Murphy
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+Feel free to contact me with any questions, comments, suggestions, or whatever
+at gurudvlp@gmail.com, or visit the forums at www.gurudigitalsolutions.com.
+
+-------------------------------------------------------------------------------
+
+btguru Torrent Scraper is a collection of php classes and scripts that allow you to search indexes for downloads that have a common pattern in their name. You can search automatically for new releases by your favorite group, and program in quite a few different parameters.
+
+
+The default packaging for btguru includes a search engine, and abstract search class with an example of a scraper that works bt.etree.org. You can also create a wanted list, and have the system obtain new releases automatically for you.
+
+-------------------------------------------------------------------------------
+
+Dependencies:
+
+	php5-cli
+	php5-curl
+
+-------------------------------------------------------------------------------
+
+Please check the FAQ for btguru scraper at www.gurudigitalsolutions.com/btguru, or visit our forums at www.gurudigitalsolutions.com/gforum for more information.
